@@ -1,0 +1,20 @@
+div = untuk melakukan grupping element agar mempermudah kita untuk melakuka styling
+
+margin = jarak luar
+padding = jarak dalam
+
+margin/padding punya 4 vaue, yaitu atas, kana, bawah, dan kiri
+
+margin 10px, 20px, 30px, 40px
+
+-- Github Versioning Control Rule --
+- git init //meng-inisiasi dari local git
+- git add . // menambahkan semua folder/file baru ke dalam local git
+- git commit -m"yourmassages" //untuk memberikan massage terhadap folder/file yang kita tambah
+- git remote add remote_name https://github.com/taupiqrachmat/b47-s1-taupiq-rachmat.git //untuk menambahkan link repository git
+- git push remote_name branch_name // untuk mengupload/mem-push code/folder/file yang sudah kita tambahkan
+
+-- Editing Repository --
+- git add . //menambah semua file/folder yang ter update kedalam local git
+- git commit -m "your massages" // untuk memberikan massage terhadap folder/file yang kita modifikasi
+- git push remote_name branch_name // untuk mengupload/mempush code/folder/file yang sudah kita modifikasi ke dalam local git
